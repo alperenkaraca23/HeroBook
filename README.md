@@ -39,10 +39,10 @@
 
 HeroBook/
 ├── Models/
-│   ├── Hero.swift               # Contains hero data structure
+│   ├── Model.swift              # Contains hero data structure
 ├── Views/
-│   ├── HeroListView.swift       # List view displaying heroes
-│   ├── HeroDetailView.swift     # Displays hero details
+│   ├── ListView.swift           # List view displaying heroes
+│   ├── DetailView.swift         # Displays hero details
 │   ├── ListRowView.swift        # Custom row view for displaying hero images
 ```
 
